@@ -4,7 +4,7 @@
 #
 Name     : jsondiff
 Version  : 1.1.2
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/33/0c/ddb17571e061c655871ccbf76cdada55a31569327d21517de779d4887241/jsondiff-1.1.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/33/0c/ddb17571e061c655871ccbf76cdada55a31569327d21517de779d4887241/jsondiff-1.1.2.tar.gz
 Summary  : Diff JSON and JSON-like structures in Python
@@ -66,7 +66,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C
-export SOURCE_DATE_EPOCH=1547489434
+export SOURCE_DATE_EPOCH=1547490787
 export MAKEFLAGS=%{?_smp_mflags}
 python3 setup.py build
 
