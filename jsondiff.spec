@@ -4,7 +4,7 @@
 #
 Name     : jsondiff
 Version  : 1.3.0
-Release  : 18
+Release  : 19
 URL      : https://files.pythonhosted.org/packages/37/53/df2401ddcdc20289e715d3ab30080a0f286a897b6c9c6511bad869ee1ea1/jsondiff-1.3.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/37/53/df2401ddcdc20289e715d3ab30080a0f286a897b6c9c6511bad869ee1ea1/jsondiff-1.3.0.tar.gz
 Summary  : Diff JSON and JSON-like structures in Python
